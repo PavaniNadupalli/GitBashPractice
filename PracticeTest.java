@@ -13,5 +13,6 @@ public class PracticeTest {
 		{
 			System.out.println("enjoy the coding");
 		}
+		System.out.println("completed");
     }
     }
