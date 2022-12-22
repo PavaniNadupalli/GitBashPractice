@@ -11,7 +11,7 @@ public class PracticeTest {
 		}
 		else
 		{
-			System.out.println("enjoy");
+			System.out.println("enjoy the coding");
 		}
     }
     }
