@@ -8,6 +8,7 @@ public class PracticeTest {
 		if(hungry == "yes" || hungry = "Y")
 		{
 			System.out.println("have a nice food");
+			System.out.println("have a nice day");
 		}
 		else
 		{
