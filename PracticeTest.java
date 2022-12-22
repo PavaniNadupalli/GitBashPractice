@@ -5,7 +5,7 @@ public class PracticeTest {
 		
 		String hungry = "yes";
 		
-		if(hungry == "yes")
+		if(hungry == "yes" || hungry = "Y")
 		{
 			System.out.println("have a nice food");
 		}
